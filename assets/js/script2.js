@@ -35,4 +35,6 @@ $(document).ready(function(){
     }
     //Ejecutar la función para mostrar los Digimon
     obtenerDigimones();
-})
+});
+
+
